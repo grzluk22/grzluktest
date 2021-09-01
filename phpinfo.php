@@ -14,4 +14,7 @@ class MojeTestowe
     }
 }
 
+$ja = new MojeTestowe("Łukasz");
+echo $ja->getImie();
+
 
